@@ -161,3 +161,5 @@ cython_debug/
 
 playground/
 *.rhl
+
+**/.DS_Store
