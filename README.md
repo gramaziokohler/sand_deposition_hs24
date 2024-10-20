@@ -1,14 +1,8 @@
-# Coding Architecture II: FS24
+# Seminar Week HS24: Sand Deposition
 
-Materials for the "Coding Architecture II", Spring Semester 2024.
+Materials for the Seminar Week HS24 "Sand Deposition".
 
-> Coding Architecture I-II<br>
-> is a **programming class for architects**<br>
-> with particular focus on **demystifying technology**
-> -both software and hardware-<br>
-> **and exploring the programmability of our world**<br>
-> through powerful methods of digital, computational, and algorithmic design.
-
+![Poster](poster.jpg)
 
 ## Getting started
 
