@@ -16,7 +16,7 @@ Once that is done, follow the step-by-step instructions below.
 
 **Windows Users**
 
-* Download the installer: https://dfab.link/ca-fs24/installer.zip
+* Download the installer: https://dfab.link/sd-hs24/installer.zip
 * Extract it! (**DO NOT RUN THE NEXT STEP FROM WITHIN THE ZIP FILE**)
 * Run the installer by double-clicking the file `win_install.cmd`
 
@@ -24,7 +24,7 @@ Once that is done, follow the step-by-step instructions below.
 
 On Mac, it's not necessary to download the installer. Instead, open the **Terminal** application of your mac, copy & paste the following command, and press Enter:
 ```bash
-  curl -s https://dfab.link/ca-fs24/mac_install.bash | bash
+  curl -s https://dfab.link/sd-hs24/mac_install.bash | bash
 ```
 
 **Troubleshooting**
