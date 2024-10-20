@@ -12,7 +12,7 @@ for /f "usebackq tokens=4" %%i in (`chcp`) do (
 )
 
 SET CONDA_PATH=%UserProfile%\Miniconda3
-SET CONDA_ENV_NAME=ca_fs24
+SET CONDA_ENV_NAME=sd_hs24
 
 REM Switch code page, so that we can print extended ASCII
 CHCP 65001 >nul

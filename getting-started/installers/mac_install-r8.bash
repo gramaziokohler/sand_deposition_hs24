@@ -2,7 +2,7 @@
 
 CONDA_HOME=$HOME/miniconda
 CONDA_BIN=$CONDA_HOME/condabin
-CONDA_ENV_NAME=ca_fs24
+CONDA_ENV_NAME=sd_hs24
 
 if ! command -V conda &> /dev/null
 then
